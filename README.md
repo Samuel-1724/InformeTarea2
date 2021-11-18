@@ -30,3 +30,6 @@ Los técnicos deben ser capaces de diagnosticar y reparar circuitos y sistemas q
 
 **3.2 Capítulo 4: Energía y Potencia**
 Cuando existe corriente a través de una resistencia, la energía eléctrica se transforma en calor o en otra forma de energía, como energía luminosa. Un ejemplo común de esto es un foco que se calienta demasiado como para tocarlo. La corriente a través del filamento que produce luz también produce un calentamiento indeseado porque el filamento tiene resistencia.
+[![ENERG-A.png](https://i.postimg.cc/D0DyL6VZ/ENERG-A.png)](https://postimg.cc/V0q8cjkQ)
+
+[![POTENCIA.png](https://i.postimg.cc/qvGYhRHh/POTENCIA.png)](https://postimg.cc/tsYD89Tp)
