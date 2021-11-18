@@ -33,7 +33,6 @@ Cuando existe corriente a través de una resistencia, la energía eléctrica se 
 [![ENERG-A.png](https://i.postimg.cc/D0DyL6VZ/ENERG-A.png)](https://postimg.cc/V0q8cjkQ)
 
 [![POTENCIA.png](https://i.postimg.cc/qvGYhRHh/POTENCIA.png)](https://postimg.cc/tsYD89Tp)
-
 **4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA**
 
 **4.1. Ejercicios del Capítulo 3**
@@ -177,3 +176,13 @@ R=V/I=50/500=1MO
 (31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
 [![iuo.png](https://i.postimg.cc/sgRKfg7b/iuo.png)](https://postimg.cc/fJBYBZHv)
+R=V/I=120/0.2=600 O
+
+(33) Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+[![RET.png](https://i.postimg.cc/Twv1s1SY/RET.png)](https://postimg.cc/VS4zrfm3)
+R=V/I=100/1=100 O
+Es necesario que la resistencia sea de 100 ohmios para que la corriente sea de 1 A. 
+R=V/I=100/750=1.3 KO
+El valor de la resistencia de este ajuste es de 1.3 kilo ohmios.
+El problema con este circuito es la resistencia reótata, esta provoca que el amperaje sea cada vez menor, provocando que el circuito falle.
+
