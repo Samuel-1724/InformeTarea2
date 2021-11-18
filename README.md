@@ -186,3 +186,7 @@ R=V/I=100/750=1.3 KO
 El valor de la resistencia de este ajuste es de 1.3 kilo ohmios.
 El problema con este circuito es la resistencia reótata, esta provoca que el amperaje sea cada vez menor, provocando que el circuito falle.
 
+**5. VÍDEO**
+**6. CONCLUSIONES**
+Se ha logrado definir los temas de las unidades correspondientes. Primero vimos la ley de Ohm, comprendimos quien fue este científico, y cuales fueron sus investigaciones que le llevaron a comprender las relaciones de corrientes, voltajes y resistencias. Vimos cuales eran las fórmulas que se usan para poder entender un circuito; comprender sus componentes. Notamos en cada uno de estos temas que se podian escribir con prefijos los cuales cambiaban su unidad, esto para poder desarrollar con mayor eficacia los ejercicios. También vimos algunos ejemplos y resolvimos los ejercicios de este capítulo con los cuales notamos las relaciones entre los voltajes y corrientes.
+Vimos también las definiciones de Potencia y Energía. Notamos la relación que tienen con los circuitos eléctricos y con los componentes vistos en capítulos anteriores. Definimos las nuevas unidades como los amperes-hora o los Watts-hora, nuevas unidades que nos ayudaban dislumbrar nuevas fórmulas que posibilitaban entender mejor al circuito. Vimos como las resistencias tienen un rol importante en estas áreas de energía y potencias, logrando variar los calculos dados. De igual manera, completamos los ejercicios para tener una definición mejor de estos temas y como se los puede utilizar en la práctica. 
