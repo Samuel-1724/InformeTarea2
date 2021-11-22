@@ -274,7 +274,201 @@ R=V/I=100/750=1.3 KO
 
 El valor de la resistencia de este ajuste es de 1.3 kilo ohmios.
 
-El problema con este circuito es la resistencia reótata, esta provoca que el amperaje sea cada vez menor, provocando que el circuito falle.
+El problema con este circuito es la resistencia reótata, esta provoca que el amperaje sea cada vez menor, provocando que el circuito falle.**4.2. Ejercicios del Capítulo 4**
+
+(1)Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+Potencia (P) es igual a la tensión (V) multiplicada por la Intensidad (I).
+
+Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto, W = V • I
+
+Expresado en palabras: Watt (W) es igual a la tensión (V) multiplicada por la Intensidad (I).
+
+(3)¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+La potencia como tal es la cantidad de trabajo efectuado durante una unidad tiempo. Es decir, "x" joule por segundo. (Es la definición que sirve para este problema) P=W/t
+
+Agregando que el trabajo y la energía son intercambiables en este caso.
+Podemos deducir para el problema que cada segundo consume 350 J, y esto es se puede utilizar el trabajo "efectuado” durante una unidad de segundo.
+
+                               [350 Joule del trabajo]\frac{x}{y}[/1 segundo]
+							   
+350 Watt (J/s)
+
+(5)¿A cuántos watts equivalen 1000 J en 50 ms?
+
+W=J/s=1000/0.05=20000W=20kW
+
+(7)Convierta las siguientes cantidades en megawatts:
+
+a) 1,000,000 W
+
+1 MW
+
+b) 3 * 106 W
+
+3 MW
+
+c) 15 * 107 W
+
+150 MW
+
+d) 8700 Kw
+
+8.7 MW
+
+(9)Convierta las siguientes cantidades en microwatts:
+
+a) 2 W
+
+2000000 uW
+
+b) 0.0005 W
+
+500 uW
+
+c) 0.25 mW
+
+250 uW
+
+d) 0.00667 mW
+
+6.67 uW
+
+(11)Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
+J=W*t=100mW*24h=2400mJ
+
+(13)Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+744/1500=0.496 Watts
+
+(15)Convierta 6700 watts-segundos en kWh.
+
+6700 Watts-segundos=0.001861 KW/h
+
+(17)Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+V/R=75/2=37,5I
+
+(19)Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+W=VI=120*3=360
+
+(21)Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+
+W=I^2 R=〖100〗^2*10=〖10〗^5 kW
+
+(23)Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+W=V^2/R=〖1.5〗^2/56=9/224 W
+
+(25)Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
+
+(a) ¿Cuánta energía se utiliza en dos minutos?
+
+34 Watts
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un 
+intervalo de dos minutos?
+
+**4.2. Ejercicios del Capítulo 4**
+
+(1)Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+Potencia (P) es igual a la tensión (V) multiplicada por la Intensidad (I).
+
+Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto, W = V • I
+
+Expresado en palabras: Watt (W) es igual a la tensión (V) multiplicada por la Intensidad (I).
+
+(3)¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+La potencia como tal es la cantidad de trabajo efectuado durante una unidad tiempo. Es decir, "x" joule por segundo. (Es la definición que sirve para este problema) P=W/t
+
+Agregando que el trabajo y la energía son intercambiables en este caso.
+Podemos deducir para el problema que cada segundo consume 350 J, y esto es se puede utilizar el trabajo "efectuado” durante una unidad de segundo.
+
+                               [350 Joule del trabajo]\frac{x}{y}[/1 segundo]
+							   
+350 Watt (J/s)
+
+(5)¿A cuántos watts equivalen 1000 J en 50 ms?
+
+W=J/s=1000/0.05=20000W=20kW
+
+(7)Convierta las siguientes cantidades en megawatts:
+
+a) 1,000,000 W
+
+1 MW
+
+b) 3 * 106 W
+
+3 MW
+
+c) 15 * 107 W
+
+150 MW
+
+d) 8700 Kw
+
+8.7 MW
+
+(9)Convierta las siguientes cantidades en microwatts:
+
+a) 2 W
+
+2000000 uW
+
+b) 0.0005 W
+
+500 uW
+
+c) 0.25 mW
+
+250 uW
+
+d) 0.00667 mW
+
+6.67 uW
+
+(11)Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
+J=W*t=100mW*24h=2400mJ
+
+(13)Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+744/1500=0.496 Watts
+
+(15)Convierta 6700 watts-segundos en kWh.
+
+6700 Watts-segundos=0.001861 KW/h
+
+(17)Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+V/R=75/2=37,5I
+
+(19)Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+W=VI=120*3=360
+
+(21)Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+
+W=I^2 R=〖100〗^2*10=〖10〗^5 kW
+
+(23)Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+W=V^2/R=〖1.5〗^2/56=9/224 W
+
+(25)Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
+
+(a) ¿Cuánta energía se utiliza en dos minutos?
+
+34 Watts
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un 
+intervalo de dos minutos?
 
 **5. VÍDEO**
 
